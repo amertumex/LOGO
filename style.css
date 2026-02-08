@@ -135,7 +135,7 @@ footer .corp p {
 footer .socials {
   display: flex; /* делаем flex-контейнер */
   justify-content: center; /* выравнивание по центру */
-  gap: 20px; /* расстояние между картинками */
+  gap: 30px; /* расстояние между иконками */
   margin-top: 15px;
 }
 
